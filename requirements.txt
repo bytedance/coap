@@ -1,0 +1,5 @@
+torch
+scipy
+tensorly
+bitsandbytes
+transformers
